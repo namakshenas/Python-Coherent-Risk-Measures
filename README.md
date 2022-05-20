@@ -14,3 +14,5 @@ A sample output (Pareto):
 A sample output (Diversifying Power):
 
 ![dfVaR_diversity](https://user-images.githubusercontent.com/51627278/169480358-b38146db-b2c7-4c62-9857-dc0c20b6efec.png)
+
+A quick note: I transformed the VaR model into a Second Order Cone Program (SOCP) via the epigraph property.
